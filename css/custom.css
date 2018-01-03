@@ -1,0 +1,8 @@
+/*.bg{
+	background-color: red;
+}
+@media screen and (min-width: 1025px){
+	.nav.bg{ 
+		background-color: transparent;
+	}
+}*/
